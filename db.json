@@ -1,0 +1,65 @@
+{
+  "all-resumes": [
+    {
+      "id": "2682",
+      "professionalData": {
+        "name": "Muhammed Irfan",
+        "JobTitle": "Web Developer",
+        "location": "Shoranur",
+        "email": "muhammedirfanp@gmail.com",
+        "phone": "9876543210",
+        "github": "muhammedirfanp@gmail.com",
+        "linkedIn": "muhammedirfanp@gmail.com",
+        "portfolio": "muhammedirfanp@gmail.com"
+      },
+      "educationData": {
+        "course": "CS",
+        "college": "Jyothi",
+        "university": "KTU",
+        "year": "2025"
+      },
+      "experience": {
+        "jobrole": "Data Science",
+        "company": "Luminar",
+        "joblocation": "Kakkanad, Kochi",
+        "duration": "6 Months"
+      },
+      "skill": [
+        "MYSQL",
+        "Python",
+        "Power BI"
+      ],
+      "summary": "Hardworking Person and enthusiastic"
+    },
+    {
+      "id": "eb84",
+      "professionalData": {
+        "name": "Arjun E S",
+        "JobTitle": "Web Developer",
+        "location": "Vaniyamkulam",
+        "email": "arjunes@gmail.com",
+        "phone": "7894561230",
+        "github": "",
+        "linkedIn": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "CS",
+        "college": "Jyothi",
+        "university": "KTU",
+        "year": "2025"
+      },
+      "experience": {
+        "jobrole": "Data Science",
+        "company": "Luminar",
+        "joblocation": "Kakkanad, Kochi",
+        "duration": "6 Months"
+      },
+      "skill": [
+        "MONGODB",
+        "MYSQL"
+      ],
+      "summary": "hardworking and enthusiaast person"
+    }
+  ]
+}
